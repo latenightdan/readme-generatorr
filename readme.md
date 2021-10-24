@@ -1,22 +1,22 @@
 
-# Robot Gladiators
+# Readme Generator
 
  ## Description 
-   A video game in which robots gladiate
+   This app automatically produces readmes with this format through the terminal
 
  ## Installation 
-    Type npm install node.js and npm install inquirer into the folder you run the app from
+    To install the app, add both the node.js, and inquirer packages. You install these by typing npm install node.js, and npm install inquirer into the folder you run it from.
 
 ## Usage 
-    Type node index into the console, then follow the prompts
+    After installing the packages, type node index into the terminal. This will begin a series of prompts which will lead you to producing a quality readme.
 
 ## Contributions 
-    I did the whole thing
+    I did the whole thing. However, I couldn't have done it without the Rutgers Coding bootcamp!
     
 ## Test App 
-     It tests you
+     You answer the prompts, and see if it generates a readme!
 ## Licenses:
 
-[![License](https://img.shields.io/badge/MIT-Good-green)](https://www.youtube.com/watch?v=oorVWW9ywG0)
+[![License](https://img.shields.io/badge/Example-Good-green)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
      
- ### https://www.youtube.com/watch?v=oorVWW9ywG0
+ ### https://www.youtube.com/watch?v=dQw4w9WgXcQ
